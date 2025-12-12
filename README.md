@@ -32,12 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&theme=radical" height="180">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadalameri&layout=compact&theme=radical" height="150">
-</p>
-
+https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&theme=radical
 ---
 
 ## 🔥 Profile Views
