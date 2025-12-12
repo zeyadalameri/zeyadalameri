@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zeyad Alameri</h1>
+<h3 align="center">Software Engineer & Full-Stack Developer</h3>
 
-<!--
-**zeyadalameri/zeyadalameri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on **multiple software projects**  
+- 🌱 Always learning & exploring new technologies  
+- 💬 Ask me about **backend, full-stack, and system design**  
+- 📫 Contact me at **zeyadalameri77@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+<p>
+<a href="mailto:zeyadalameri77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,php,go,dart" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,laravel,django,flask,html,css" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ZeyadAlameri&show_icons=true&theme=radical" height="180">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAlameri&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+## 🔥 Profile Views
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ZeyadAlameri&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
