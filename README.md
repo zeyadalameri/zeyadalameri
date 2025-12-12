@@ -13,26 +13,28 @@
 
 ## 🌐 Connect With Me
 <p>
-<a href="mailto:zeyadalameri77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:zeyadalameri77@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,php,go,dart" />
-<br>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,laravel,django,flask,html,css" />
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-<br>
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,php,go,dart" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,laravel,django,flask,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /><br>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&count_private=true&theme=tokyonight" />
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&count_private=true&theme=tokyonight" height="180px" />
+</p>
+
 ---
 
 ## 🔥 Profile Views
