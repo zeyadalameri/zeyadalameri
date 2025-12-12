@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZeyadAlameri&show_icons=true&theme=radical" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&theme=radical" height="180">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAlameri&layout=compact&theme=radical" height="150">
 </p>
@@ -42,5 +42,5 @@
 
 ## 🔥 Profile Views
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=ZeyadAlameri&label=Profile%20views&color=ff69b4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=zeyadalameri&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
