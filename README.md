@@ -17,8 +17,8 @@ I am currently preparing applications for Master's programmes in Germany in Comp
 A Flutter-based location-aware shopping application that helps users discover nearby markets and offers.
 
 - Tech: Flutter, Dart, Firebase, REST APIs, Location Services
+- Algorithmic aspect: implemented location-based algorithms to filter nearby markets and offers based on user position
 - Graduation Project Grade: 94/100
-- Academic focus: location-based algorithms, mobile computing, API integration
 - Repository: [smart-shopping-flutter-app](https://github.com/zeyadalameri/smart-shopping-flutter-app)
 
 ### SmartBook Telegram Integration System
