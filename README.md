@@ -1,43 +1,68 @@
-<h1 align="center">Hi 👋, I'm Zeyad Alameri</h1>
-<h3 align="center">Software Engineer & Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Zeyad Alameri</h1>
+<h3 align="center">Information Technology Graduate | Full-Stack Developer | Master's Applicant in Computer Science</h3>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **multiple software projects**  
-- 🌱 Always learning & exploring new technologies  
-- 💬 Ask me about **backend, full-stack, and system design**  
-- 📫 Contact me at **zeyadalameri77@gmail.com**
+## About Me
+
+I am an Information Technology graduate from **Sana'a University** and a Full-Stack Developer with practical experience in web, mobile, e-commerce, and automation systems. My academic and professional interests include **Software Engineering, Applied Computer Science, Artificial Intelligence, Distributed Systems, Databases, Mobile Computing, and Secure Information Systems**.
+
+I am currently preparing applications for Master's programmes in Germany in Computer Science, Software Engineering, Artificial Intelligence, and related fields.
 
 ---
 
-## 🌐 Connect With Me
-<p>
-<a href="mailto:zeyadalameri77@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+## Featured Projects
+
+### Smart Shopping App — Graduation Project
+A Flutter-based location-aware shopping application that helps users discover nearby markets and offers.
+
+- Tech: Flutter, Dart, Firebase, REST APIs, Location Services
+- Graduation Project Grade: 94/100
+- Academic focus: implemented location-based algorithms to filter nearby markets and offers
+- Repository: [smart-shopping-flutter-app](https://github.com/zeyadalameri/smart-shopping-flutter-app)
+
+### SmartBook Telegram Integration System
+A Python/Flask backend automation system that receives Telegram messages, filters them, integrates with SmartBook API, and provides a monitoring dashboard.
+
+- Tech: Python, Flask, Telethon, REST APIs, Authentication
+- Repository: [smartbook-telegram-system](https://github.com/zeyadalameri/smartbook-telegram-system)
+
+### WhatsApp Automation Bots
+Automation prototypes for monitoring WhatsApp Web messages and storing structured logs.
+
+- JavaScript version: [WhatsApp_JS_Bot](https://github.com/zeyadalameri/WhatsApp_JS_Bot)
+- Python version: [WhatsApp_pyBot](https://github.com/zeyadalameri/WhatsApp_pyBot)
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,cs,php,go,dart" /><br>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,laravel,django,flask,html,css" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /><br>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-</p>
+## Technical Skills
+
+**Languages:** Python, JavaScript, TypeScript, PHP, Dart, C#, C++, SQL  
+**Back-End:** Node.js, Express, Flask, FastAPI, Laravel, ASP.NET, REST APIs, JWT  
+**Front-End & Mobile:** React, HTML5, CSS3, Bootstrap, Flutter  
+**Databases:** MySQL, PostgreSQL, SQLite, Firebase  
+**Tools:** Git, GitHub, Linux, Docker basics, VS Code  
+**CS Core:** OOP, Data Structures & Algorithms, Software Engineering, Databases, Operating Systems, Networks, Distributed Systems
 
 ---
 
-## 📊 GitHub Stats
+## Education
+
+**Bachelor of Information Technology**  
+Sana'a University, Faculty of Computer & Information Technology  
+Final Grade: Very Good — 82/100  
+Graduation Project: Smart Shopping App — 94/100
+
+---
+
+## Connect With Me
+
+- Email: **zeyadalameri77@gmail.com**
+- LinkedIn: [linkedin.com/in/zeyadalameri](https://linkedin.com/in/zeyadalameri)
+- Portfolio: [zeyadalameri.github.io](https://zeyadalameri.github.io)
+
+---
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&count_private=true&theme=tokyonight" height="180px" />
-</p>
-
----
-
-## 🔥 Profile Views
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=zeyadalameri&label=Profile%20views&color=ff69b4&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&theme=tokyonight" height="165px" />
 </p>
