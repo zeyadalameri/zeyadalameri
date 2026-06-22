@@ -18,7 +18,7 @@ A Flutter-based location-aware shopping application that helps users discover ne
 
 - Tech: Flutter, Dart, Firebase, REST APIs, Location Services
 - Graduation Project Grade: 94/100
-- Academic focus: implemented location-based algorithms to filter nearby markets and offers
+- Academic focus: location-based algorithms, mobile computing, API integration
 - Repository: [smart-shopping-flutter-app](https://github.com/zeyadalameri/smart-shopping-flutter-app)
 
 ### SmartBook Telegram Integration System
@@ -50,7 +50,7 @@ Automation prototypes for monitoring WhatsApp Web messages and storing structure
 
 **Bachelor of Information Technology**  
 Sana'a University, Faculty of Computer & Information Technology  
-Final Grade: Very Good — 82/100  
+GPA: 82/100 — Very Good  
 Graduation Project: Smart Shopping App — 94/100
 
 ---
