@@ -1,68 +1,48 @@
-<h1 align="center">Hi, I'm Zeyad Alameri</h1>
-<h3 align="center">Information Technology Graduate | Full-Stack Developer | Master's Applicant in Computer Science</h3>
+# Zeyad Alameri
 
----
+**Full-Stack Developer | Information Technology Graduate | Master's Applicant**
 
-## About Me
+I am an Information Technology graduate from Sana'a University with practical experience building web, mobile, desktop, and automation projects. My work spans REST APIs, cross-platform clients, relational databases, authentication, and containerized development.
 
-I am an Information Technology graduate from **Sana'a University** and a Full-Stack Developer with practical experience in web, mobile, e-commerce, and automation systems. My academic and professional interests include **Software Engineering, Applied Computer Science, Artificial Intelligence, Distributed Systems, Databases, Mobile Computing, and Secure Information Systems**.
-
-I am currently preparing applications for Master's programmes in Germany in Computer Science, Software Engineering, Artificial Intelligence, and related fields.
-
----
+- Portfolio: [zeyadalameri.github.io](https://zeyadalameri.github.io)
+- LinkedIn: [linkedin.com/in/zeyadalameri](https://www.linkedin.com/in/zeyadalameri/)
+- Email: [zeyadalameri77@gmail.com](mailto:zeyadalameri77@gmail.com)
 
 ## Featured Projects
 
-### Smart Shopping App — Graduation Project
-A Flutter-based location-aware shopping application that helps users discover nearby markets and offers.
+### 1. [NOVA Marketplace](https://github.com/zeyadalameri/nova-marketplace)
 
-- Tech: Flutter, Dart, Firebase, REST APIs, Location Services
-- Graduation Project Grade: 94/100
-- Academic focus: implemented location-based algorithms to filter nearby markets and offers
-- Repository: [smart-shopping-flutter-app](https://github.com/zeyadalameri/smart-shopping-flutter-app)
+A production-oriented e-commerce MVP with a Django REST Framework backend, Next.js web client, Expo mobile client, PostgreSQL, Docker, inventory workflows, sandbox payment/shipping boundaries, and AI-assisted inventory analysis.
 
-### SmartBook Telegram Integration System
-A Python/Flask backend automation system that receives Telegram messages, filters them, integrates with SmartBook API, and provides a monitoring dashboard.
+### 2. [Smart Shopping App - Graduation Project, 94/100](https://github.com/zeyadalameri/smart-shopping-flutter-app)
 
-- Tech: Python, Flask, Telethon, REST APIs, Authentication
-- Repository: [smartbook-telegram-system](https://github.com/zeyadalameri/smartbook-telegram-system)
+A Flutter mobile client for discovering nearby markets and offers through location-aware REST API queries, with maps, notifications, localisation, themes, and local favourites.
 
-### WhatsApp Automation Bots
-Automation prototypes for monitoring WhatsApp Web messages and storing structured logs.
+### 3. [School Management System](https://github.com/zeyadalameri/school-management-system)
 
-- JavaScript version: [WhatsApp_JS_Bot](https://github.com/zeyadalameri/WhatsApp_JS_Bot)
-- Python version: [WhatsApp_pyBot](https://github.com/zeyadalameri/WhatsApp_pyBot)
+A Laravel 9 and Filament 2 administration application for academic structure, student records, attendance, assessments, marks, fees, and role-based access.
 
----
+### 4. [SmartBook Telegram Integration](https://github.com/zeyadalameri/smartbook-telegram-system)
+
+A Python, Flask, and Telethon integration prototype for receiving Telegram messages, connecting selected workflows to an external SmartBook API, and monitoring activity through a local dashboard.
+
+### 5. [Hotel Management System](https://github.com/zeyadalameri/Hotel-Management)
+
+A C# Windows Forms and .NET Framework 4.7.2 desktop project backed by SQL Server for rooms, guests, check-in/check-out, and employee management.
+
+## Additional Projects
+
+- [WhatsApp Web Monitor - Python](https://github.com/zeyadalameri/WhatsApp_pyBot) - Selenium learning and automation prototype
+- [WhatsApp Web Monitor - Node.js](https://github.com/zeyadalameri/WhatsApp_JS_Bot) - `whatsapp-web.js` learning and automation prototype
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, TypeScript, PHP, Dart, C#, C++, SQL  
-**Back-End:** Node.js, Express, Flask, FastAPI, Laravel, ASP.NET, REST APIs, JWT  
-**Front-End & Mobile:** React, HTML5, CSS3, Bootstrap, Flutter  
-**Databases:** MySQL, PostgreSQL, SQLite, Firebase  
-**Tools:** Git, GitHub, Linux, Docker basics, VS Code  
-**CS Core:** OOP, Data Structures & Algorithms, Software Engineering, Databases, Operating Systems, Networks, Distributed Systems
+- **Languages:** Python, JavaScript, TypeScript, PHP, Dart, C#, SQL
+- **Backend:** Django, Django REST Framework, Flask, Laravel, Filament, REST APIs, JWT
+- **Web and mobile:** Next.js, React, React Native, Expo, Flutter, HTML, CSS, Tailwind CSS
+- **Data:** PostgreSQL, MySQL, SQLite, SQL Server, Firebase
+- **Tools and practices:** Docker, Git, GitHub, OpenAPI, API integration, relational data modelling
 
----
+## Master's Study Interests
 
-## Education
-
-**Bachelor of Information Technology**  
-Sana'a University, Faculty of Computer & Information Technology  
-Final Grade: Very Good — 82/100  
-Graduation Project: Smart Shopping App — 94/100
-
----
-
-## Connect With Me
-
-- Email: **zeyadalameri77@gmail.com**
-- LinkedIn: [linkedin.com/in/zeyadalameri](https://linkedin.com/in/zeyadalameri)
-- Portfolio: [zeyadalameri.github.io](https://zeyadalameri.github.io)
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadalameri&show_icons=true&theme=tokyonight" height="165px" />
-</p>
+Software Engineering, Applied Computer Science, Artificial Intelligence, Distributed Systems, Databases, Mobile Computing, and Secure Information Systems.
